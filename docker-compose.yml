@@ -3,4 +3,4 @@ services:
   app:
     build: .
     environment:
-    - TEST_ENV=test
+    - TEST_ENV=value1
